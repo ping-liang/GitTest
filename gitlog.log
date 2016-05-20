@@ -1,0 +1,45 @@
+[33mcommit f8394188095dd4fb7307ab7bfffd9b99869de3b4[m
+Author: ping-liang <ping.liang08@gmail.com>
+Date:   Thu May 19 19:11:52 2016 -0400
+
+    Test
+
+[33mcommit 95be11db7e42d8178eddf495ec25fd68478a1576[m
+Author: ping-liang <ping.liang08@gmail.com>
+Date:   Thu May 19 14:25:39 2016 -0400
+
+    readme.md changes in master branch
+
+[33mcommit ff53c88ee1632ebeeb2220da031fe75ab19834fc[m
+Merge: 1064cd5 e331426
+Author: ping-liang <ping.liang08@gmail.com>
+Date:   Thu May 19 14:24:39 2016 -0400
+
+    Merge pull request #1 from ping-liang/readme-edits
+    
+    Update README.md
+
+[33mcommit e331426f1ec833fa32af7220d86b21c4c68fea67[m
+Author: ping-liang <ping.liang08@gmail.com>
+Date:   Thu May 19 14:21:43 2016 -0400
+
+    Update README.md
+
+[33mcommit 1064cd50f730c8822b7b1597f2b611d118578951[m
+Merge: 4dea574 8f36348
+Author: ping-liang <ping.liang08@gmail.com>
+Date:   Wed May 18 15:43:24 2016 -0400
+
+    Merge branch 'master' of https://github.com/ping-liang/GitTest
+
+[33mcommit 4dea574be44e7ef8ab17e29713a4be5afc2bada7[m
+Author: ping-liang <ping.liang08@gmail.com>
+Date:   Wed May 18 15:38:08 2016 -0400
+
+    initial commit of Main branch
+
+[33mcommit 8f363485e8dce06cda06fe02a0ec17e9e65b5af5[m
+Author: ping-liang <ping.liang08@gmail.com>
+Date:   Wed May 18 14:19:58 2016 -0400
+
+    Initial commit
